@@ -1,0 +1,2 @@
+12
+"BILASPUR" : "219" ,"CHAMBA" : "214" ,"HAMIRPUR" : "217" ,"KANGRA" : "213" ,"KINNAUR" : "216" ,"KULLU" : "211" ,"LAHAUL SPITI" : "210" ,"MANDI" : "215" ,"SHIMLA" : "208" ,"SIRMAUR" : "212" ,"SOLAN" : "209" ,"UNA" : "218" ,

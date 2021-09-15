@@ -1,0 +1,586 @@
+
+	{
+	"centers":
+		[
+		
+			{
+			"center_id":632661
+			"name":"MH Only For ARMY"
+			"address":"Military Hospital Mathura Cant"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"368c51c3-5c74-4499-ae7c-3faa91b11174"
+					"date":"17-05-2021"
+					"available_capacity":29
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":9
+					"available_capacity_dose2":20
+					}
+				
+				
+					{
+					"session_id":"e2a8f24f-8886-4294-9975-3613cd074fa7"
+					"date":"18-05-2021"
+					"available_capacity":26
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":6
+					"available_capacity_dose2":20
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":605335
+			"name":"UPHC Mahendra Nagar"
+			"address":"UPHC Mahendra Nagar"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"b7e1db35-a404-45b7-af10-3374a7b25394"
+					"date":"17-05-2021"
+					"available_capacity":40
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":40
+					}
+				
+				
+					{
+					"session_id":"0dcffcb8-88aa-4add-bc80-6d0ae67dc679"
+					"date":"18-05-2021"
+					"available_capacity":23
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":3
+					"available_capacity_dose2":20
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":626291
+			"name":"HWC Adeeng Goverdhan"
+			"address":"HCW Adeeng Goverdhan"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Goverdhan"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"09:00:00"
+			"to":"18:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"0bf38b0a-9f0c-49bb-8955-a49c9d123ce0"
+					"date":"17-05-2021"
+					"available_capacity":73
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"09:00AM-11:00AM"
+						"11:00AM-01:00PM"
+						"01:00PM-03:00PM"
+						"03:00PM-06:00PM"
+						]
+					
+					"available_capacity_dose1":33
+					"available_capacity_dose2":40
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":601524
+			"name":"UPHC Laxmi Nager 18to44 Only"
+			"address":"UPHC Laxmi Nager IshaPur Road Laxmi Nager"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"ef9cd289-3207-43b2-8be8-6d7c5266f97e"
+					"date":"17-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"f7a8e684-fcfd-4468-a7d2-0c854d05a322"
+					"date":"18-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"e4baa905-8afa-4413-b382-832199568e6a"
+					"date":"19-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"ef15324a-2f93-4396-8b4b-ac948c2fd622"
+					"date":"20-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"78af0b5f-1b1a-4195-8107-829cac3c9599"
+					"date":"21-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"29c5625a-e5fc-4103-af3b-76e4fc594d08"
+					"date":"22-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":603204
+			"name":"MDS District Hospital"
+			"address":"Holi Gate Mathura"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"46383765-1f4f-4cf4-863c-d6872cd21882"
+					"date":"17-05-2021"
+					"available_capacity":50
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":50
+					}
+				
+				
+					{
+					"session_id":"15c7c373-676b-4df5-b458-22efa86fc4fc"
+					"date":"18-05-2021"
+					"available_capacity":39
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":9
+					"available_capacity_dose2":30
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":697121
+			"name":"DWH ZilaMahilaHosp 18to44 Only"
+			"address":"District Women Hospital Mahura"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"e189fd3c-7a87-4b70-bcb3-7c3ca5e080b2"
+					"date":"17-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"1662f940-c723-4487-ab76-c6c92fe0a507"
+					"date":"18-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"6bf7b600-fad7-4e20-814b-5b9ab7fedf2b"
+					"date":"19-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"70921ceb-8920-482d-82ba-ae18c691c8bf"
+					"date":"20-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"56c73fda-6e51-422e-b2f8-eb8ac60c18ba"
+					"date":"21-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				
+					{
+					"session_id":"7cc50d9c-9683-4302-945a-68330fd8dccc"
+					"date":"22-05-2021"
+					"available_capacity":0
+					"min_age_limit":18
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":0
+					"available_capacity_dose2":0
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":603166
+			"name":"UPHC Laxmi Nagar Jamunapur"
+			"address":"UPHC Laxmi Nager Mathura"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Mathura"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"10:00:00"
+			"to":"16:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"500967a1-a8d6-4ce0-ab78-2b3324decf8d"
+					"date":"17-05-2021"
+					"available_capacity":35
+					"min_age_limit":45
+					"vaccine":"COVAXIN"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":16
+					"available_capacity_dose2":19
+					}
+				
+				
+					{
+					"session_id":"ea9e047a-c535-4e20-a597-eed8155b3e53"
+					"date":"18-05-2021"
+					"available_capacity":20
+					"min_age_limit":45
+					"vaccine":"COVAXIN"
+					"slots":
+						[
+						"10:00AM-11:00AM"
+						"11:00AM-12:00PM"
+						"12:00PM-01:00PM"
+						"01:00PM-04:00PM"
+						]
+					
+					"available_capacity_dose1":1
+					"available_capacity_dose2":19
+					}
+				
+				]
+			
+			}
+		
+		
+			{
+			"center_id":626237
+			"name":"HWC Nagla Chandrabhan Farah"
+			"address":"HCW Nagla Chandrabhan Farah"
+			"state_name":"Uttar Pradesh"
+			"district_name":"Mathura"
+			"block_name":"Farah"
+			"pincode":281001
+			"lat":27
+			"long":77
+			"from":"09:00:00"
+			"to":"18:00:00"
+			"fee_type":"Free"
+			"sessions":
+				[
+				
+					{
+					"session_id":"bfe11e68-525c-473f-87dc-f8b8566cf064"
+					"date":"17-05-2021"
+					"available_capacity":80
+					"min_age_limit":45
+					"vaccine":"COVISHIELD"
+					"slots":
+						[
+						"09:00AM-11:00AM"
+						"11:00AM-01:00PM"
+						"01:00PM-03:00PM"
+						"03:00PM-06:00PM"
+						]
+					
+					"available_capacity_dose1":40
+					"available_capacity_dose2":40
+					}
+				
+				]
+			
+			}
+		
+		]
+	
+	}
+
